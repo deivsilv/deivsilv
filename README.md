@@ -2,9 +2,10 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/abnoan-dev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=abnoan-dev&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnoan-dev&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/deivsilv">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deivsilv&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivsilv&theme=dracula&hide_border=false&&layout=compact"/>
+   
   </a>
 </div>
 
@@ -13,8 +14,10 @@
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
        <img align="center" alt="Rafa-CSS" height="30" width="40" 
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
 </div>
-  
+
   ##
  
 <div> 
