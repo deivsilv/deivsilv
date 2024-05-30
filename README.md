@@ -15,7 +15,7 @@
        <img align="center" alt="Rafa-CSS" height="30" width="40" 
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="python" height="30" widht="40" src=https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg>
+    <img align="center" alt="python" height="30" widht="40" src=
 </div>
 
   ##
