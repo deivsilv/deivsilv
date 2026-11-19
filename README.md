@@ -21,8 +21,8 @@
 
 <p align="center">
   <strong>Location:</strong> Água Nova, RN, Brazil<br />
-  <strong>What I do:</strong> I study and build software projects<br />
-  <strong>Goal:</strong> To document my growth as a developer here
+  <strong>What I do:</strong> I study and build software projects.<br />
+  <strong>Goal:</strong> To document my growth as a developer here.
 </p>
 
 <div align="center">
