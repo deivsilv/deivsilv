@@ -11,5 +11,11 @@
 - Current project: Sistema de Gestão de Academia
 - Goal: To document my growth as a developer here
 
+<div align="center">
+
+<a href="mailto:warsdvd@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" /></a>    <a href="https://www.linkedin.com/in/deivid-silva-15b336324"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" /></a>    <a href="https://github.com/deivsilv"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" /></a>
+
+</div>
+
  
 
