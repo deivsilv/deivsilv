@@ -12,8 +12,6 @@
   <strong>Goal:</strong> To document my growth as a developer here
 </p>
 
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&repeat=false&width=830&height=60&lines=Contact" alt="Contact" /> </div> <div align="center">
-
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=34&amp;duration=2000&amp;pause=1000&amp;color=FFFFFF&amp;background=000000&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=830&amp;height=60&amp;lines=Language+and+tools"
