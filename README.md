@@ -1,11 +1,24 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=44&duration=2500&pause=1500&color=FFFFFF&background=000000&center=true&vCenter=true&repeat=false&width=830&height=90&lines=Ol%C3%A1%2C+me+chamo+Deivid!" alt="Olá, me chamo Deivid!" /> <img src="assets/l.gif" alt="GIF de boas-vindas" width="360" />
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=44&amp;duration=2500&amp;pause=1500&amp;color=FFFFFF&amp;background=000000&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=830&amp;height=90&amp;lines=Ol%C3%A1%2C+me+chamo+Deivid!"
+    alt="Olá, me chamo Deivid!"
+  />
+  <br />
+  <img src="assets/l.gif" alt="GIF de boas-vindas" width="360" />
+  <br /><br />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=44&amp;duration=2500&amp;pause=1500&amp;color=FFFFFF&amp;background=000000&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=830&amp;height=90&amp;lines=Bem-vindo+ao+meu+perfil"
+    alt="Bem-vindo ao meu perfil"
+  />
+</div>
 
-<br/><br/>
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=34&amp;duration=2000&amp;pause=1000&amp;color=FFFFFF&amp;background=000000&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=830&amp;height=60&amp;lines=About+me"
+    alt="About me"
+  />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=44&duration=2500&pause=1500&color=FFFFFF&background=000000&center=true&vCenter=true&repeat=false&width=830&height=90&lines=Bem-vindo+ao+meu+perfil" alt="Bem-vindo ao meu perfil" /> </div>
-
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&repeat=false&width=830&height=60&lines=About+me" alt="About me" /> </div>
-	
 <p align="center">
   <strong>Location:</strong> Água Nova, RN, Brazil<br />
   <strong>What I do:</strong> I study and build software projects<br />
@@ -52,12 +65,12 @@
     src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=34&amp;duration=2000&amp;pause=1000&amp;color=FFFFFF&amp;background=000000&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=830&amp;height=60&amp;lines=Contact"
     alt="Contact"
   />
+  <br />
+  <a href="mailto:warsdvd@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&amp;theme=dark" alt="Email" width="48" height="48" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/deivid-silva-15b336324"><img src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" alt="LinkedIn" width="48" height="48" /></a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/SEU_ID_NUMERICO" title="Discord: vulgodeiv">
+  <img src="https://skillicons.dev/icons?i=discord&amp;theme=dark" alt="Discord: vulgodeiv" width="48" height="48" />
+</a>
 </div>
-
-<a href="mailto:warsdvd@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" /></a>    <a href="https://www.linkedin.com/in/deivid-silva-15b336324"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" /></a>    <a href="https://github.com/deivsilv"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" /></a>
-
-</div>
-
-
- 
-
