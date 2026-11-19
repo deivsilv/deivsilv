@@ -9,7 +9,6 @@
 <p align="center">
   <strong>Location:</strong> Água Nova, RN, Brazil<br />
   <strong>What I do:</strong> I study and build software projects<br />
-  <strong>Current project:</strong> Sistema de Gestão de Academia<br />
   <strong>Goal:</strong> To document my growth as a developer here
 </p>
 
