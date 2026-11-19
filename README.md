@@ -1,14 +1,14 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=44&amp;duration=2500&amp;pause=1500&amp;color=FFFFFF&amp;background=000000&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=830&amp;height=90&amp;lines=Ol%C3%A1%2C+me+chamo+Deivid!"
-    alt="Olá, me chamo Deivid!"
+    src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=44&amp;duration=2500&amp;pause=1500&amp;color=FFFFFF&amp;background=000000&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=830&amp;height=90&amp;lines=Hi%2C+I%27m+Deivid%21"
+    alt="Hi, I'm Deivid!"
   />
   <br />
-  <img src="assets/l.gif" alt="GIF de boas-vindas" width="360" />
+  <img src="assets/l.gif" alt="Welcome GIF" width="360" />
   <br /><br />
   <img
-    src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=44&amp;duration=2500&amp;pause=1500&amp;color=FFFFFF&amp;background=000000&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=830&amp;height=90&amp;lines=Bem-vindo+ao+meu+perfil"
-    alt="Bem-vindo ao meu perfil"
+    src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=44&amp;duration=2500&amp;pause=1500&amp;color=FFFFFF&amp;background=000000&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=830&amp;height=90&amp;lines=Welcome+to+my+profile%21"
+    alt="Welcome to my profile!"
   />
 </div>
 
